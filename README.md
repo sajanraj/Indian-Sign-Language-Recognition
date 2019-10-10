@@ -5,6 +5,7 @@ Communication provide interaction among the people to exchange the feelings and 
 Published in: 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT)
 
 link: https://ieeexplore.ieee.org/document/8473141
+
 Blog: https://sajanrajtd.wordpress.com
 Dataset Created by : Sajanraj T D,Sreeram T P,Sarath,Tharun,Jameena
 
@@ -14,4 +15,5 @@ Associate with Student Project
 Vidya Academy of Science & Technology
 Campus:-Thalakottukara P.O., Kecheri, Thrissur - 680501, Kerala, India
 Under APJ Abdul Kalam Technological University
-
+|--------------------------|-------------------------------|-----------------------------|
+|![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/0_98.JPG)|![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/0_98.JPG)
