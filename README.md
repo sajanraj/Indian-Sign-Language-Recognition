@@ -6,7 +6,7 @@ Published in: 2018 Second International Conference on Inventive Communication an
 
 link: https://ieeexplore.ieee.org/document/8473141
 
-Dataset Created by : Sajaraj T D,Sreeram T P,..
+Dataset Created by : Sajanraj T D,Sreeram T P,..
 
 Guidance:Beena M V
 
