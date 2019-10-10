@@ -17,13 +17,13 @@ Campus:-Thalakottukara P.O., Kecheri, Thrissur - 680501, Kerala, India
 Under APJ Abdul Kalam Technological University
 
 
--------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
 
 ![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/0_98.JPG)|
 ![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/2_23.jpg)|
 ![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/3_1_2%20(171).jpeg)|
 
-|-------------------------------------|
+|-------------------------------------|---------------------------------|-----------------------------------|
 
 ![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/4_1.jpg)|
 ![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/5_219.jpg)|
