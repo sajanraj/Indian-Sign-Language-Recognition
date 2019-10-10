@@ -16,5 +16,6 @@ Vidya Academy of Science & Technology
 Campus:-Thalakottukara P.O., Kecheri, Thrissur - 680501, Kerala, India
 Under APJ Abdul Kalam Technological University
 
-|--------------------------|-------------------------------|-----------------------------|
-|![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/0_98.JPG)|![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/0_98.JPG)|------------------|
+--------------------------|-------------------------------|-----------------------------
+-------------------------------------------------------------------------------------------
+![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/0_98.JPG)|![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/0_98.JPG)|
