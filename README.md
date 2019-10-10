@@ -5,7 +5,7 @@ Communication provide interaction among the people to exchange the feelings and 
 Published in: 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT)
 
 link: https://ieeexplore.ieee.org/document/8473141
-
+Blog: https://sajanrajtd.wordpress.com
 Dataset Created by : Sajanraj T D,Sreeram T P,Sarath,Tharun,Jameena
 
 Guidance:Beena M V
