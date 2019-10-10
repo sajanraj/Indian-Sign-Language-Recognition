@@ -19,9 +19,9 @@ Under APJ Abdul Kalam Technological University
 
 -------------------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/0_98.JPG)|
-![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/2_23.jpg)|
-![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/3_1_2%20(171).jpeg)|
+| [![alt text 1](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/0_98.JPG)] |
+[ ![alt text 2](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/2_23.jpg)] |
+[ ![alt text 3](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/3_1_2%20(171).jpeg)]|
 
 |-------------------------------------|---------------------------------|-----------------------------------|
 
