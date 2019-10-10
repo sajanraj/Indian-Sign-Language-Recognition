@@ -51,29 +51,29 @@ Under APJ Abdul Kalam Technological University
 </p>
 <p float="left">
   <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/J_5.jpg" width="100" />
-  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/K_6.JPG" width="100" /> 
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/K_1.jpg" width="100" /> 
   <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/L_8.jpg" width="100" />
 </p>
 </p>
 <p float="left">
   <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/M_6.jpg" width="100" />
-  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/N_8.JPG" width="100" /> 
-  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/O_9.JPG" width="100" />
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/N_1.jpg" width="100" /> 
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/O_1.jpg" width="100" />
 </p>
 <p float="left">
   <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/P_5.jpg" width="100" />
-  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/Q_6.JPG" width="100" /> 
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/Q_1.jpg" width="100" /> 
   <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/R_8.jpg" width="100" />
 </p>
 <p float="left">
   <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/S_5.jpg" width="100" />
-  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/T_6.JPG" width="100" /> 
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/T_1.jpg" width="100" /> 
   <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/U_8.jpg" width="100" />
 </p>
 <p float="left">
-  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/V_6.JPG" width="100" />
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/V_1.jpg" width="100" />
   <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/W_8.jpg" width="100" /> 
-  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/X_9.jpg" width="100" />
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/X_1.jpg" width="100" />
 </p>
 <p float="left">
   <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/Y_5.jpg" width="100" />
