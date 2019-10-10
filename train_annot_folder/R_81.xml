@@ -1,0 +1,26 @@
+<annotation>
+	<folder>R</folder>
+	<filename>R_81.jpg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\R\R_81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>8</ymin>
+			<xmax>216</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

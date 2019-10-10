@@ -1,0 +1,26 @@
+<annotation>
+	<folder>H</folder>
+	<filename>471.jpeg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\H\471.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>74</ymin>
+			<xmax>218</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

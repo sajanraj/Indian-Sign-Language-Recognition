@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D</folder>
+	<filename>D_156.jpg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\D\D_156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>75</ymin>
+			<xmax>206</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

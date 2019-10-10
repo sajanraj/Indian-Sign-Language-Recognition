@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05</folder>
+	<filename>IMG_6083.JPG</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\05\IMG_6083.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>05</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>75</ymin>
+			<xmax>177</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

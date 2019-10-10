@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A</folder>
+	<filename>6_1_ (230).jpeg</filename>
+	<path>C:\Users\PROJECT 17\Desktop\Sajan_Final_RealTime_prediction_using_region_of_interest\valbk\A\6_1_ (230).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>06</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>26</ymin>
+			<xmax>213</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

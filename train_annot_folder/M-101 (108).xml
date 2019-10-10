@@ -1,0 +1,26 @@
+<annotation>
+	<folder>M</folder>
+	<filename>M-101 (108).jpeg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\M\M-101 (108).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>35</ymin>
+			<xmax>184</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

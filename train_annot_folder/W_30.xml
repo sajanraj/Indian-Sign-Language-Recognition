@@ -1,0 +1,26 @@
+<annotation>
+	<folder>W</folder>
+	<filename>W_30.jpg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\W\W_30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>81</ymin>
+			<xmax>184</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

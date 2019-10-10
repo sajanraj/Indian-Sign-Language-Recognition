@@ -1,0 +1,26 @@
+<annotation>
+	<folder>07</folder>
+	<filename>7_190.jpg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\07\7_190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>07</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>117</ymin>
+			<xmax>189</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Q</folder>
+	<filename>Q_127.jpg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\Q\Q_127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>42</ymin>
+			<xmax>214</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

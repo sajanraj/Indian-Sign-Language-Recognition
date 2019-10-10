@@ -1,0 +1,26 @@
+<annotation>
+	<folder>08</folder>
+	<filename>8_3.jpg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\08\8_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>08</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>8</ymin>
+			<xmax>217</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

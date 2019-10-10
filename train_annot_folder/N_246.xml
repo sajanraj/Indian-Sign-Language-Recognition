@@ -1,0 +1,26 @@
+<annotation>
+	<folder>N</folder>
+	<filename>N_246.JPG</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\N\N_246.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>74</ymin>
+			<xmax>205</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00</folder>
+	<filename>IMG_4952.JPG</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\00\IMG_4952.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>00</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>117</ymin>
+			<xmax>176</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>K</folder>
+	<filename>K_10 (102).jpeg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\K\K_10 (102).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>K</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>108</ymin>
+			<xmax>234</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

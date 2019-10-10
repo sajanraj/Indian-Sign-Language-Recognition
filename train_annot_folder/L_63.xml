@@ -1,0 +1,26 @@
+<annotation>
+	<folder>L</folder>
+	<filename>L_63.jpg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\L\L_63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>L</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>55</ymin>
+			<xmax>243</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

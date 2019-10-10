@@ -1,0 +1,26 @@
+<annotation>
+	<folder>X</folder>
+	<filename>X_1_r (143).jpeg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2 - sign\train\X\X_1_r (143).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>X</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>75</ymin>
+			<xmax>200</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

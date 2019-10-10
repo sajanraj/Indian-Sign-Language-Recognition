@@ -1,0 +1,26 @@
+<annotation>
+	<folder>04</folder>
+	<filename>IMG_7308.JPG</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\04\IMG_7308.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>04</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>32</ymin>
+			<xmax>150</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

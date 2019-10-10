@@ -1,0 +1,26 @@
+<annotation>
+	<folder>U</folder>
+	<filename>U_216.jpg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\U\U_216.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>81</ymin>
+			<xmax>196</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

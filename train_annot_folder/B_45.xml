@@ -1,0 +1,26 @@
+<annotation>
+	<folder>B</folder>
+	<filename>B_45.jpg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\B\B_45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>107</ymin>
+			<xmax>215</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

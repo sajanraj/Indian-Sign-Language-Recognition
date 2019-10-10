@@ -1,0 +1,26 @@
+<annotation>
+	<folder>L</folder>
+	<filename>L_101 (270).jpeg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\L\L_101 (270).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>L</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>42</ymin>
+			<xmax>256</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

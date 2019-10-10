@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S</folder>
+	<filename>S_140.jpg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\S\S_140.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>61</ymin>
+			<xmax>181</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

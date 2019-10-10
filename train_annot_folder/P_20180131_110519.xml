@@ -1,0 +1,26 @@
+<annotation>
+	<folder>04</folder>
+	<filename>P_20180131_110519.jpg</filename>
+	<path>F:\Sajan YOLO\keras-yolo2\train\04\P_20180131_110519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>04</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>117</ymin>
+			<xmax>206</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>
