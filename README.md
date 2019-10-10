@@ -16,27 +16,25 @@ Vidya Academy of Science & Technology
 Campus:-Thalakottukara P.O., Kecheri, Thrissur - 680501, Kerala, India
 Under APJ Abdul Kalam Technological University
 
+<p float="left">
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/0_98.JPG" width="100" />
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/2_23.jpg" width="100" /> 
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/3_1_2%20(171).jpeg" width="100" />
+</p>
 
--------------------------------------------------------------------------------------------------------------
+<p float="center">
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/4_1.jpg" width="100" />
+  <img src="/https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/5_219.jpg" width="100" /> 
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/6_1_(19).jpeg" width="100" />
+</p>
 
-| [![alt text 1](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/0_98.JPG)] |
-[ ![alt text 2](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/2_23.jpg)] |
-[ ![alt text 3](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/3_1_2%20(171).jpeg)]|
+<p float="left">
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/7_11.jpg" width="100" />
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/8_149.JPG" width="100" /> 
+  <img src="https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/9_199.jpg" width="100" />
+</p>
 
-|-------------------------------------|---------------------------------|-----------------------------------|
 
-![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/4_1.jpg)|
-![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/5_219.jpg)|
-![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/6_1_(19).jpeg)|
 
-|-------------------------------------|
 
-![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/7_11.jpg)|
-![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/8_149.JPG)|
-![alt text](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/train_image_folder/9_199.jpg)|
 
-|-------------------------------------|
-![alt text]()|
-![alt text]()|
-![alt text]()
-|-------------------------------------|
