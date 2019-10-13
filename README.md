@@ -86,9 +86,11 @@ Under APJ Abdul Kalam Technological University
 Experimental Results:
 ------------------------------
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/dsD_Y3LNfNw" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+
+<object data="http://www.web-source.net" width="600" height="400">
+    <embed src="http://www.web-source.net" width="600" height="400"> </embed>
+    Error: Embedded data could not be displayed.
+</object>
 
 
 
