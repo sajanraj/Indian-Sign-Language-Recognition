@@ -86,7 +86,7 @@ Under APJ Abdul Kalam Technological University
 Experimental Results:
 ------------------------------
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/dsD_Y3LNfNw "Video Here")
+[![IMAGE ALT TEXT](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/Screenshot%20from%202019-10-13%2018-26-14.png)](https://youtu.be/dsD_Y3LNfNw "Video Here")
 
 
 
