@@ -86,7 +86,9 @@ Under APJ Abdul Kalam Technological University
 Experimental Results:
 ------------------------------
 
-<iframe width="560" height="315" src="https://youtu.be/dsD_Y3LNfNw" frameborder="0" allowfullscreen></iframe>
+<figure class="video_container">
+  <iframe src="https://youtu.be/dsD_Y3LNfNw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 
 
