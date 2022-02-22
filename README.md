@@ -89,5 +89,20 @@ Click on the image to open the Video Link
 
 [![IMAGE ALT TEXT](https://github.com/sajanraj/Indian-Sign-Language-Recognition/blob/master/Screenshot%20from%202019-10-13%2018-26-14.png)](https://youtu.be/dsD_Y3LNfNw "Video Here")
 
-
-
+----------------
+Cite this paper:
+```
+T. D. Sajanraj and M. Beena, "Indian Sign Language Numeral Recognition Using Region of Interest Convolutional Neural Network," 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT), 2018, pp. 636-640, doi: 10.1109/ICICCT.2018.8473141.
+```
+BibTeX
+```
+@INPROCEEDINGS{8473141,
+  author={Sajanraj, T D and Beena, Mv},
+  booktitle={2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT)}, 
+  title={Indian Sign Language Numeral Recognition Using Region of Interest Convolutional Neural Network}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={636-640},
+  doi={10.1109/ICICCT.2018.8473141}}
+```
